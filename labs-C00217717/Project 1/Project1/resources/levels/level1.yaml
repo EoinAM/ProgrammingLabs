@@ -1,0 +1,105 @@
+paddle:
+     position: {x: 550, y: 580}
+     size: {x: 200, y: 30}
+     speed: 5
+ball:
+     position: {x: 320, y: 450}
+     shown: true
+enemies: 
+   - type: enemy
+     position: {x: 145, y: 80}
+     size: {x: 50, y: 50.}
+     shown: true
+   - type: enemy
+     position: {x: 265, y: 80}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 405, y: 80}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 545, y: 80}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 685, y: 80}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 825,y: 80}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 140, y: 270}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 265, y: 270}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 405, y: 270}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 545, y: 270}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 685, y: 270}
+     size: {x: 50, y: 50}
+     shown: true
+   - type: enemy
+     position: {x: 825, y: 270}
+     size: {x: 50, y: 50}
+     shown: true
+bricks:
+   - type: brick
+     position: {x: 120, y: 175}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 260, y: 175}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 400, y: 175}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 540, y: 175}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 680, y: 175}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 820, y: 175}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 120, y: 365}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 260, y: 365}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 400, y: 365}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 540, y: 365}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 680, y: 365}
+     size: {x: 120, y: 50}
+     shown: true
+   - type: brick
+     position: {x: 820, y: 365}
+     size: {x: 120, y: 50}
+     shown: true
